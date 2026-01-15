@@ -1,7 +1,7 @@
 # 🌀 Mainframe de Cohérence Fractale (MCF)
 ### Proposition d'Architecture Computationnelle Post-Von Neumann & Bio-Inspirée
 
-> **Statut :** Recherche Conceptuelle / Whitepaper  
+> **Statut :** Recherche Conceptuelle 
 > **Auteur :** Quantum Lichen Framework  
 > **Domaine :** Calcul Naturel, Topologie Physique, IA Systémique  
 
@@ -50,5 +50,3 @@ Cela garantit que l'OS reste stable et synchronisé malgré les perturbations ex
 3. **Stabilisation Exotique :** Passage à un état de fonctionnement permanent en régime de Floquet.
 
 ---
-
-*"L'informatique actuelle est une Ferrari qui fonce dans un mur. Le MCF est le volant qui permet de naviguer dans la structure même de la matière."*
